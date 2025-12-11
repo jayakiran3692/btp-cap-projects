@@ -1,0 +1,9 @@
+node_modules/
+gen/
+mta_archives/
+dist/
+.target/
+.vscode/
+.idea/
+.env
+npm-debug.log
